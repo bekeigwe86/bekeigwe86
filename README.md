@@ -39,4 +39,3 @@ New projects and case studies are currently in development.
 
 - Portfolio: Coming Soon
 - B.E. Custom Media: https://www.becustommedia.com
-- LinkedIn: https://www.linkedin.com/in/bright-ekeigwe/
